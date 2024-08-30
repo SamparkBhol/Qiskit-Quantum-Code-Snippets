@@ -88,25 +88,25 @@ python -m unittest discover -s tests
 
 Contributions are welcome! If you have suggestions for improvements or additional snippets, please follow these steps:
 
-Fork the Repository: Click on the "Fork" button on the top right of this repository page.
+_Fork the Repository:_ Click on the "Fork" button on the top right of this repository page.
 
-Create a New Branch:
+_Create a New Branch:_
 
-To ensure everything is working correctly, run the unit tests:
+_To ensure everything is working correctly, run the unit tests:_
 git checkout -b feature-branch
 
-Make Your Changes: Add or modify code snippets as needed.
+_Make Your Changes:_ Add or modify code snippets as needed.
 
 Commit Your Changes:
 
 git add .
 git commit -m "Add new feature or fix"
 
-Push to Your Fork:
+_Push to Your Fork:_
 
 git push origin feature-branch
 
-Create a Pull Request: Go to the original repository and create a pull request from your feature branch.
+_Create a Pull Request:_ Go to the original repository and create a pull request from your feature branch.
 
 ## Acknowledgements
 
