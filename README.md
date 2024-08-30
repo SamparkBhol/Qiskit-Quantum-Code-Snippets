@@ -2,7 +2,7 @@
 
 Welcome to the **Qiskit Quantum Code Snippets** repository! I’m thrilled to share this collection of code snippets designed to illustrate various quantum computing concepts and techniques using Qiskit. This repository aims to offer practical examples and resources for both beginners and experienced quantum enthusiasts.
 
-## Contribution and Uniqueness
+## Uniqueness
 
 This project provides a comprehensive repository of Qiskit code snippets for common quantum operations, addressing several key areas in quantum computing:
 
@@ -12,6 +12,11 @@ This project provides a comprehensive repository of Qiskit code snippets for com
 - **Community-Driven**: Designed to be a community resource, encouraging contributions and expansions. The repository is structured to allow easy additions and updates from the community.
 
 This project stands out by combining practical code examples with educational value, bridging gaps in existing resources and fostering collaboration within the quantum computing community.
+
+## Contribution to Open Source
+
+This project contributes to the Qiskit open source community by creating a comprehensive repository of practical code snippets that cover a wide range of quantum computing topics. By providing clear and accessible examples of quantum operations, algorithms, and visualization techniques, it serves as a valuable resource for both beginners and experienced practitioners. The repository not only facilitates learning and experimentation with Qiskit but also invites community collaboration by being well-structured for easy expansion and contributions. This initiative enriches the available educational materials, supports the growth of the quantum computing ecosystem, and fosters a collaborative environment within the Qiskit community.
+
 
 ## Repository Structure
 
