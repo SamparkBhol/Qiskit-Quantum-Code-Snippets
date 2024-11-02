@@ -15,7 +15,7 @@ This project stands out by combining practical code examples with educational va
 
 ## Contribution to Open Source
 
-This project contributes to the Qiskit open source community by creating a comprehensive repository of practical code snippets that cover a wide range of quantum computing topics. By providing clear and accessible examples of quantum operations, algorithms, and visualization techniques, it serves as a valuable resource for both beginners and experienced practitioners. The repository not only facilitates learning and experimentation with Qiskit but also invites community collaboration by being well-structured for easy expansion and contributions. This initiative enriches the available educational materials, supports the growth of the quantum computing ecosystem, and fosters a collaborative environment within the Qiskit community.
+This repo I made strives to contribute to the Qiskit open source community by creating a comprehensive repository of practical code snippets that cover a wide range of quantum computing topics. By providing clear and accessible examples of quantum operations, algorithms, and visualization techniques, it serves as a valuable resource for both beginners and experienced practitioners. The repository not only facilitates learning and experimentation with Qiskit but also invites community collaboration by being well-structured for easy expansion and contributions. This initiative enriches the available educational materials, supports the growth of the quantum computing ecosystem, and fosters a collaborative environment within the Qiskit community.
 
 
 ## Repository Structure
