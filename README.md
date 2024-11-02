@@ -63,7 +63,7 @@ To get started with this repository, follow these steps:
 First, clone the repository to your local machine:
 
 bash
-git clone https://github.com/SamparkBhol/qiskit-quantum-code-snippets.git
+git clone https://github.com/urname/qiskit-quantum-code-snippets.git
 cd qiskit-quantum-code-snippets
 
 ### 2. Set Up Your Environment
